@@ -545,7 +545,7 @@
     }
     .navbar-expand-sm .navbar-nav{
         flex-direction: column !important;
-        display: none;
+        /* display: none; */
         /* flex-shrink: initial; */
     }
 }
@@ -735,7 +735,7 @@
     }
     .navbar-expand-sm .navbar-nav{
         /* flex-direction: column !important; */
-        display: none;
+        /* display: none; */
         /* flex-shrink: initial; */
     }
     .best-text h3{
